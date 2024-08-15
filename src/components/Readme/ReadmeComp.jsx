@@ -97,7 +97,7 @@ const ProfileComponent = () => {
                 className="text-gray-800"
                 style={{ fontSize: isMobile ? ".9rem" : "1.25rem" }}
               >
-                ⚡ I'm Utkarsh Kumar, a Software Developer at Google, and previously at Rannlab Technology in Bangalore, India.
+                ⚡ I'm Utkarsh Kumar, Completed Internship In Software Developer at Google 2023, and previously at Rannlab Technology in Bangalore, India.
               </Typography>
               <Typography
                 variant={isMobile ? "body2" : "body1"}
