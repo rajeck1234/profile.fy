@@ -115,3 +115,11 @@ To set up and run the project locally, follow these steps:
 - [Author](https://github.com/rajeck1234)
 - [Website](https://kaleidoscopic-wisp-21175e.netlify.app/)
 - [Email](mailto:kumarutkarsh946@gmail.com)
+## About Me 
+⚡ I'm Utkarsh Kumar, Completed Internship In Software Developer at Google 2023, and previously at Rannlab Technology in Bangalore, India.
+
+🎓 Cleared IIT JEE Advanced and graduated from IIT Kharagpur with a B.Tech degree, securing a CGPA of 8.1/10.
+
+📞 Phone: [+91 6204808269]
+Email: kumarutkarsh946@gmail.com
+
