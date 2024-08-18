@@ -91,7 +91,7 @@ To set up and run the project locally, follow these steps:
 1. E-Commerce HomePage
   <img  src="public/assets/Screenshots/E-Commerce HomePage.jpg" alt="E-Commerce HomePage">
 2. Sign Up
-  <img  src="public/assets/Screenshots/Sign Up.jpg" alt="Sign Up">
+  <img  src="Sign Up.jpg" alt="Sign Up">
 3. Log In
   <img  src="public/assets/Screenshots/Log In.jpg" alt="Log In">
 4. Product Details page
