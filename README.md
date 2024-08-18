@@ -48,7 +48,7 @@ To set up and run the project locally, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/MMansy19/E-Commerce-Website.git
+   git clone https://github.com/rajeck1234/profile.fyi.git
    ```
 
 2. Navigate to the project directory:
@@ -98,15 +98,13 @@ To set up and run the project locally, follow these steps:
   <img  src="public/assets/Screenshots/Product Details page.jpg" alt="Product Details page">
 5. Wishlist
   <img  src="public/assets/Screenshots/Wishlist.jpg" alt="Wishlist">
-6. About
-  <img  src="public/assets/Screenshots/About.jpg" alt="About">
-7. Cart
+
+6. Cart
   <img  src="public/assets/Screenshots/Cart.jpg" alt="Cart">
-8. CheckOut
+7. CheckOut
   <img  src="public/assets/Screenshots/CheckOut.jpg" alt="CheckOut">
-9. Contact
-  <img  src="public/assets/Screenshots/Contact.jpg" alt="Contact">
-10. Account
+
+8. Account
   <img  src="public/assets/Screenshots/Account.jpg" alt="Account">
 
 
@@ -114,6 +112,6 @@ To set up and run the project locally, follow these steps:
 
 ## Contact
 
-- [Author](https://github.com/MMansy19)
-- [Website](https://mahmoud-mansy-portfolio.netlify.app/)
-- [Email](mailto:mahmoud2abdalfattah@gmail.com)
+- [Author](https://github.com/rajeck1234)
+- [Website](https://kaleidoscopic-wisp-21175e.netlify.app/)
+- [Email](mailto:kumarutkarsh946@gmail.com)
