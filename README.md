@@ -95,7 +95,7 @@ To set up and run the project locally, follow these steps:
 3. Log In
   <img  src="Log In1.jpg" alt="Log In">
 4. Product Details page
-  <img  src="Product Details page.jpg" alt="Product Details page">
+  <img  src="Product Details page1.jpg" alt="Product Details page">
 5. Wishlist
   <img  src="Wishlist1.jpg" alt="Wishlist">
 
