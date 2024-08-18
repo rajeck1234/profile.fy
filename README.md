@@ -93,19 +93,19 @@ To set up and run the project locally, follow these steps:
 2. Sign Up
   <img  src="Sign Up.jpg" alt="Sign Up">
 3. Log In
-  <img  src="public/assets/Screenshots/Log In.jpg" alt="Log In">
+  <img  src="Log In.jpg" alt="Log In">
 4. Product Details page
-  <img  src="public/assets/Screenshots/Product Details page.jpg" alt="Product Details page">
+  <img  src="Product Details page.jpg" alt="Product Details page">
 5. Wishlist
-  <img  src="public/assets/Screenshots/Wishlist.jpg" alt="Wishlist">
+  <img  src="Wishlist.jpg" alt="Wishlist">
 
 6. Cart
-  <img  src="public/assets/Screenshots/Cart.jpg" alt="Cart">
+  <img  src="Cart.jpg" alt="Cart">
 7. CheckOut
-  <img  src="public/assets/Screenshots/CheckOut.jpg" alt="CheckOut">
+  <img  src="CheckOut.jpg" alt="CheckOut">
 
 8. Account
-  <img  src="public/assets/Screenshots/Account.jpg" alt="Account">
+  <img  src="Account.jpg" alt="Account">
 
 
 
