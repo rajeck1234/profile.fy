@@ -5,7 +5,7 @@ The E-commerce website is a full-stack application built using React with Vite a
 
   <img  src="0.png" alt="Home">
 
-## [🌟Live Website🌟](https://kaleidoscopic-wisp-21175e.netlify.app/)
+## [🌟Live Website🌟](https://utkarshkrfyi.netlify.app/)
 
 
 
