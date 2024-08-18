@@ -45,7 +45,7 @@ const resources = {
             "Groceries & Pets",
             "Health & Beauty",
           ],
-          col2: ["iPhone 14 Series", "Up to 10% off Voucher", "Shop Now"],
+          col2: ["iPhone 14 Series", "Up to 20% off Coupon", "Shop Now"],
         },
         row2: ["Today’s", "Flash Sales", "Days", "Hours", "Minutes", "Seconds"],
       },
