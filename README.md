@@ -7,7 +7,7 @@ The E-commerce website is a full-stack application built using React with Vite a
 
 ## [🌟Live Website🌟](https://kaleidoscopic-wisp-21175e.netlify.app/)
 
-## [🌟Design on Figma 🌟](https://www.figma.com/file/yn2DFQJla0UiSMvomFsqwT/E-Commerce-Website-%D9%90Almdrasa?type=design&mode=design&t=fqPRRAQH5lDJGmoY-0)
+
 
 ## Table of Contents
 
